@@ -1,0 +1,6 @@
+package com.soldier.xogame
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
