@@ -1,4 +1,4 @@
-# xogame
+# Tic-Tac Game
 
 A new Flutter project.
 
